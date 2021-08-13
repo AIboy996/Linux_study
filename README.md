@@ -6,4 +6,6 @@
 
 2021/8/13
 
-忘记git怎么记住密码和账号了试一下！！
+忘记git怎么记住密码和账号了试一下！
+似乎可以全局记住密码，命令是$ git config --global credential.helper store！
+
