@@ -10,3 +10,7 @@
 似乎可以全局记住密码，命令是\
 `$ git config --global credential.helper store`
 
+2021/08/18
+
+就在2021-08-13，github彻底放弃了git操作时的密码验证，现在只可以使用token和ssh的方式。\
+确实很巧合。\
